@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "College-Admission", "College-Admission\College-Admission.pyproj", "{57AD3CDA-09FE-43CD-842F-FAB6EBB3ABA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AD3CDA-09FE-43CD-842F-FAB6EBB3ABA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AD3CDA-09FE-43CD-842F-FAB6EBB3ABA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E893D8-AB87-47D6-A7B7-D94788D4EBE1}
+	EndGlobalSection
+EndGlobal
